@@ -1,0 +1,7 @@
+*.pth
+/checkpoints
+/Ours
+/Reporting_Info
+/Build
+/Analysis
+/cocoapi
